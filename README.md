@@ -1,2 +1,2 @@
 # selector
-css selector code are there.
+ https://shaylasharmin123.github.io/selector/
