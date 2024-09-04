@@ -1,0 +1,94 @@
+
+.first{
+	width :80%;
+	height: 100px;
+	margin: 0 auto;
+	border: 3px solid;
+	background-color: yellow;
+}
+.first h1{
+	font-size: 40px;
+	text-align: center;
+}
+ .next{
+	width: 80%;
+	height: 100px;
+	margin: 0 auto;
+	border: 3px solid;
+	background-color: pink;
+}
+.next h3{
+	font-size: 40px;
+	text-align: center;
+}
+.demo{
+	width :80%;
+	height: 200px;
+	text-align: center;
+	margin: 0 auto;
+	border: 3px solid;
+	background-color: red;
+}
+#firstname{
+	background-color: yellow;
+}
+.star *{
+	background-color: gray;
+	border: 1px solid red;
+}
+.star{
+	width :80%;
+	height: 250px;
+	text-align: center;
+	margin: 0 auto;
+	border: 3px solid;
+	background-color: blue;
+}
+.child{
+	width :80%;
+	height: 250px;
+	text-align: center;
+	margin: 0 auto;
+	border: 3px solid;
+	background-color: green;
+}
+.child div > p {
+  background-color: yellow;
+}
+.container{
+	width: 80%;
+	margin: 0 auto;
+	background-color: aqua;
+	border: 3px solid;
+}
+.box h1{
+	font-size: 40px;
+}
+.box p{
+	font-size: 20px;
+}
+.box h2{
+	font-size: 30px;
+}
+pre{
+	font-size: 20px;
+	margin-left: -200px;
+}
+audio{
+	width: 80%;
+	margin-right: 50px;
+}
+.if1{
+	  width: 100%;
+	  height: 500px;
+}
+.if2{
+	  width: 100%;
+	  height: 500px;
+}
+.baby{
+		border: 3px solid;
+		background-color: pink;
+		padding-top: 20px;
+		padding-bottom: 20px;
+}
